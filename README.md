@@ -28,7 +28,7 @@
 
 Семинар 3
 ---------
-Запись: https://vk.com/video19138189_456239245?list=ln-9c42c430e27d6eff0c
+Запись: https://vk.com/video19138189_456239245?list=ln-Zl5tmEoXZd7NzKi1cE
 
 **lab3_partition.cpp**
 
